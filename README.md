@@ -1,7 +1,5 @@
 # Pen-testing
 
-# DIGITAL INVESTIGATION & E-DISCOVERY
-
 ## 📌 About This Project
 
 The Digital Investigation and E-Discovery project is an academic cybersecurity assessment demonstrating a practical penetration testing attack using the Metasploit Framework, showcasing anti-forensic techniques, backdoor injection methods, and digital forensic investigation procedures within a controlled laboratory environment using Kali Linux as the attacking platform and Windows Server 2022 as the target system.
